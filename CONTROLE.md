@@ -100,7 +100,7 @@ Un restaurant kebab veut créer une application pour permettre à ses clients de
 
 #### Entreprise
 
-Une entreprise a besoin de faire la liste de ses salariés. Chaque salarié a un prénom, un nom, une date de naissance. Il est possible qu'un salarié est un manager. Un manager est également un salarié.
+Une entreprise a besoin de faire la liste de ses salariés. Chaque salarié a un prénom, un nom, une date de naissance. Il est possible qu'un salarié ait un manager. Un manager est également un salarié.
 
 ### Exercices programmation /8
 
@@ -132,7 +132,7 @@ En vous basant ce mcd
 - Une œuvre doit alors être assurée. On connaît le montant de la prime d'assurance, la valeur pour laquelle l'œuvre est assurée, le nom et l'adresse de la compagnie qui l'assure;
 - On souhaite garder la liste des particuliers qui ont prêté des œuvres. Pour chacun, on affichera ses titres, prénom, nom et adresse et les types d'œuvres qu'ils possèdent (art déco, art contemporain, antiquités, ...).
 
-Écrire un script SQL pour réalider cette base de données
+Écrire un script SQL pour réaliser cette base de données
 
 #### Gestion de stock
 
@@ -140,4 +140,4 @@ En vous basant ce mcd
 - Un même produit peut provenir de plusieurs fournisseurs à des prix d’achat différents.
 - Un fournisseur peut livrer plusieurs produits.
 
-Écrire un script SQL pour réalider cette base de données
+Écrire un script SQL pour réaliser cette base de données
